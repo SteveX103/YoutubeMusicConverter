@@ -1,3 +1,7 @@
+• Built a YouTube to MP3 Converter Web App using FastAPI and JavaScript
+• Implemented media processing with yt-dlp and FFmpeg
+• Designed clean frontend UI and file download functionality
+
 Requiremnt : 
   1.Python 
   2.fastapi 
